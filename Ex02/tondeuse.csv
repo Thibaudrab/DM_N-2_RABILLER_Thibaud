@@ -1,0 +1,21 @@
+Id,Nom de la tondeuse,Puissance,Autonomie,Energie
+Id,Nom de la tondeuse,Puissance,Autonomie,Energie
+1,Greencut,500,60 minutes,Thermique
+2,Greencut,1200W,120 minutes,Hybride
+3,Greencut,1000W,120 minutes,Hybride
+4,Greencut,800W,60 minutes,Electrique
+5,LawnMower Pro,2000W,120 minutes,Electrique
+6,LawnMower Pro,2000W,100 minutes,Electrique
+7,Turf Warrior,1200W,80 minutes,Thermique
+8,Garden Master,1500W,80 minutes,Thermique
+9,Turf Warrior,2000W,100 minutes,Hybride
+10,LawnMower Pro,1500W,100 minutes,Diesel
+11,LawnMower Pro,1500W,80 minutes,Electrique
+12,Turf Warrior,500,120 minutes,Hybride
+13,Turf Warrior,1500W,80 minutes,Electrique
+14,Turf Warrior,2000W,80 minutes,Hybride
+15,Mac allister,1500W,40 minutes,Thermique
+16,Turf Warrior,800W,120 minutes,Diesel
+17,Toro,1500W,100 minutes,Electrique
+18,Mac allister,1200W,100 minutes,Hybride
+19,Mac allister,2000W,60 minutes,Diesel
